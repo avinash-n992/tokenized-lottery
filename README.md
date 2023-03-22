@@ -44,3 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+After the project setup, you would also need metamask browser extension to be enabled on your system.
+This is needed to connect to the wallet only after which the Dapp would work as expected 
